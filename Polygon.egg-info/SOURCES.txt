@@ -1,0 +1,12 @@
+setup.py
+Polygon/IO.py
+Polygon/Shapes.py
+Polygon/Utils.py
+Polygon/__init__.py
+Polygon.egg-info/PKG-INFO
+Polygon.egg-info/SOURCES.txt
+Polygon.egg-info/dependency_links.txt
+Polygon.egg-info/top_level.txt
+src/PolyUtil.c
+src/cPolygon.c
+src/gpc.c
